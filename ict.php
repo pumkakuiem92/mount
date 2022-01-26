@@ -1,5 +1,4 @@
 <?php
-echo "GIF8";
 $pass = false;
 $passwd = null;
 
